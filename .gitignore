@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+entorno_tesis/
+__pycache__/
+
+# PyTorch models
+*.pt
+*.pth
+
+# Data
+data/
+datasets/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
